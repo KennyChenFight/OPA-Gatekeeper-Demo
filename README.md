@@ -1,5 +1,6 @@
 # OPA-Gatekeeper-Demo
-These are basic rego rules for demo.
+These are basic rego rules for demo.<br>
+There are more useful rules from opa official: https://github.com/open-policy-agent/gatekeeper-library
 
 ## Requirements
 + install OPA-Gatekeeper for your Kubernetes Cluster.<br>
